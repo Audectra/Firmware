@@ -18,3 +18,7 @@ If you are upgrading to Audectra v2 and still want to control your non-addressab
 
 If you are eager to control addressable LEDs with Audectra, then this might be the bast starting point for your firmware.
 
+### Audectra v1.5.1 Single-Channel with PWM
+
+If you are still using Audectra v1.5.1, you might need to adapt and use this base firmware for your controller.
+
